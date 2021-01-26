@@ -7,17 +7,13 @@ package prueba1;
  * @author xrosi
  *
  */
-public class H {
+public class A {
 
 	/**
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub+
-		// 1
-		// 2
-		// 3
-		// A
+		// TODO Auto-generated method stub
 
 	}
 
